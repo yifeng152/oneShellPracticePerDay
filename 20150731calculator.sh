@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PS3='Input option(1-4):'
+#PS3='Input option(1-4):'
 stack="Display Calculate Sort Quit"
 select choice in $stack;do
 	if [ "$choice" = "Display" ];then
