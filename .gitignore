@@ -1,2 +1,4 @@
 material
+!material/
+material/*
 !material/regular_express.txt
